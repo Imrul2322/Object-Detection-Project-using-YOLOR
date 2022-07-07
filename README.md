@@ -13,7 +13,9 @@ traning and testing dataset with 10 objects:
 8. Coffee
 9. Tea
 10. Monkey
-total around 50 thousands images. Number of images from all classes is almost similar to have better prediction performance. 
+
+Total around 50 thousands images. 
+Number of images from all classes is almost similar to have better prediction performance. 
 
 Training dataset link:
 
