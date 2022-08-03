@@ -65,6 +65,20 @@ video 1: Object detection in a 5 min long Manhattan St video.
 2. Model Building (100%)
 3. Produce results (100%)
 
+## Repository Structure
+
+```bash
+
+
+
+```
+
+## Acknowledgements
+
+1. https://github.com/AlexeyAB/darknet/
+2. https://github.com/WongKinYiu/yolor
+3. https://github.com/EscVM/OIDv4_ToolKit
+
 
 
 
