@@ -1,8 +1,34 @@
-# Object-Detection-Project-using-YOLOR
+# Custom Object Detection Project using YOLOR
+
+## Key Findings
+
+The trained model is capable of finding objects with excellent accuracy from the list of 10 collected and annotated objects. Mean Average Precision (mAP @ 0.5) of 72.8% after training the model for 500 epochs. Using YOLO-v4 on the same dataset 71.09% of maP @ 0.5 achieved after 500 epochs. Detection time improved 63% using YOLOR compared to YOLO-v4. 
+
+## Table of Contents
+
+## Problem Statement
+
+YOLOR (You only learn one representation) is one of the most efficient state-of-the-art object detection algorithm. Unlike YOLO (you only look once) algorithms which uses 1 * 1 convolutions for prediction map and feature map, YOLOR is a unified network which can combine explicit learning (learning based on data and input) with implicit knowledge (subconscious learning). It detects 80 classes of objects from COCO dataset. Though it covers many objects, our goal is to build a custom model based on YOLOR which can be trained to detect any object we want. To serve this purpose, 10 classes of object has been selected and trained the model accordingly.
+
+## Methodologies
+
+1. Collected and annotated 52,884 training images and 6,644 testing images. 
+2. Modified existing YOLOR model to fit our needs. 
+3. Created Muli-GPU environment for parallel processing. 
+4. Run 500 epochs on Lambda server. 
+
+## Resources
+
+1. Python (PyTorch, OpenCV, scipy, tensorboard, pandas, seaborn, scikit-learn).
+2. Google Open Image Dataset
+3. Lambda GPU server (3 GPUs)
 
 ## dataset used
 
-traning and testing dataset with 10 objects:
+Training dataset link: https://drive.google.com/file/d/1L1mRbnLl6sPvu-q_3mhFVlsvu0fXDzJj/view?usp=sharing
+Testing dataset link: https://drive.google.com/file/d/12ApqaRp8gmlGO6NkdAfs6xl4DAqx7IBn/view?usp=sharing
+
+Object lebels:
 1. Bird
 2. Cat
 3. Chicken
@@ -14,16 +40,23 @@ traning and testing dataset with 10 objects:
 9. Tea
 10. Monkey
 
-Total around 50 thousands images. 
-Number of images from all classes is almost similar to have better prediction performance. 
+## Summary of Results 
 
-Training dataset link:
+![alt text](https://github.com/Imrul2322/Feature-Selection-using-Discriminative-Analysis/blob/main/assets/cifar%2010%202%20class%2025.png)
 
-https://drive.google.com/file/d/1L1mRbnLl6sPvu-q_3mhFVlsvu0fXDzJj/view?usp=sharing
+## Contribution
+
+1. Dataset Collection (100%)
+2. Model Building (100%)
+3. Produce results (100%)
 
 
-Testing dataset consists of 10 thousands images
 
-Testing dataset link:
 
-https://drive.google.com/file/d/12ApqaRp8gmlGO6NkdAfs6xl4DAqx7IBn/view?usp=sharing
+
+
+
+
+
+
+
