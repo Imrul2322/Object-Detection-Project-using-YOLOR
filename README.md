@@ -44,12 +44,19 @@ Object labels:
 
 ![alt text](https://github.com/Imrul2322/Object-Detection-Project-using-YOLOR/blob/main/assets/labels.png)
 
+Figure 1: Analysis of the labels used. 
+
 ![alt text](https://github.com/Imrul2322/Object-Detection-Project-using-YOLOR/blob/main/assets/precision-recall_curve.png)
+
+Figure 2: Precision Recall curve.
 
 ![alt text](https://github.com/Imrul2322/Object-Detection-Project-using-YOLOR/blob/main/assets/test_batch2_labels.jpg)
 
+Figure 3: Object detection in random images.
 
 <a href="https://drive.google.com/file/d/1pYlTC-hrTUykopNUfVh64yCQsX2LDOAa/view?usp=sharing"><img src="https://github.com/Imrul2322/Object-Detection-Project-using-YOLOR/blob/main/assets/detection_detection_video.png" ></a>
+
+video 1: Object detection in a 5 min long Manhattan St video. 
 
 
 ## Contribution
