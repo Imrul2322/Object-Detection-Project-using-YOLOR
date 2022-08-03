@@ -23,7 +23,7 @@ YOLOR (You only learn one representation) is one of the most efficient state-of-
 2. Google Open Image Dataset
 3. Lambda GPU server (3 GPUs)
 
-## dataset used
+## Dataset used
 
 Training dataset link: https://drive.google.com/file/d/1L1mRbnLl6sPvu-q_3mhFVlsvu0fXDzJj/view?usp=sharing
 Testing dataset link: https://drive.google.com/file/d/12ApqaRp8gmlGO6NkdAfs6xl4DAqx7IBn/view?usp=sharing
@@ -42,11 +42,15 @@ Object labels:
 
 ## Summary of Results 
 
-![alt text](https://github.com/Imrul2322/Feature-Selection-using-Discriminative-Analysis/blob/main/assets/cifar%2010%202%20class%2025.png)
+![alt text](https://github.com/Imrul2322/Object-Detection-Project-using-YOLOR/blob/main/assets/labels.png)
 
-<figure class="video_container">
-<iframe src="https://drive.google.com/file/d/1pYlTC-hrTUykopNUfVh64yCQsX2LDOAa/preview" width="640" height="480" allow="autoplay"></iframe>
-</figure>
+![alt text](https://github.com/Imrul2322/Object-Detection-Project-using-YOLOR/blob/main/assets/precision-recall_curve.png)
+
+![alt text](https://github.com/Imrul2322/Object-Detection-Project-using-YOLOR/blob/main/assets/test_batch2_labels.jpg)
+
+
+<a href="https://drive.google.com/file/d/1pYlTC-hrTUykopNUfVh64yCQsX2LDOAa/view?usp=sharing"><img src="https://github.com/Imrul2322/Object-Detection-Project-using-YOLOR/blob/main/assets/detection_detection_video.png" ></a>
+
 
 ## Contribution
 
