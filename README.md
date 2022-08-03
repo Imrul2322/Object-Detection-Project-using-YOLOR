@@ -44,7 +44,9 @@ Object labels:
 
 ![alt text](https://github.com/Imrul2322/Feature-Selection-using-Discriminative-Analysis/blob/main/assets/cifar%2010%202%20class%2025.png)
 
+<figure class="video_container">
 <iframe src="https://drive.google.com/file/d/1pYlTC-hrTUykopNUfVh64yCQsX2LDOAa/preview" width="640" height="480" allow="autoplay"></iframe>
+</figure>
 
 ## Contribution
 
