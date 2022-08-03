@@ -28,7 +28,7 @@ YOLOR (You only learn one representation) is one of the most efficient state-of-
 Training dataset link: https://drive.google.com/file/d/1L1mRbnLl6sPvu-q_3mhFVlsvu0fXDzJj/view?usp=sharing
 Testing dataset link: https://drive.google.com/file/d/12ApqaRp8gmlGO6NkdAfs6xl4DAqx7IBn/view?usp=sharing
 
-Object lebels:
+Object labels:
 1. Bird
 2. Cat
 3. Chicken
@@ -43,6 +43,8 @@ Object lebels:
 ## Summary of Results 
 
 ![alt text](https://github.com/Imrul2322/Feature-Selection-using-Discriminative-Analysis/blob/main/assets/cifar%2010%202%20class%2025.png)
+
+<iframe src="https://drive.google.com/file/d/1pYlTC-hrTUykopNUfVh64yCQsX2LDOAa/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Contribution
 
