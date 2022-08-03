@@ -1,0 +1,10 @@
+Bird
+Cat
+Chicken
+Dog
+Horse
+Person
+Tree
+Coffee
+Tea
+Monkey
