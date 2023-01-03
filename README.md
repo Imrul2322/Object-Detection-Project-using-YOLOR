@@ -64,7 +64,7 @@ Figure 2: Precision Recall curve.
 
 Figure 3: Object detection in random images.
 
-<a href="https://drive.google.com/file/d/1pYlTC-hrTUykopNUfVh64yCQsX2LDOAa/view?usp=sharing"><img src="https://github.com/Imrul2322/Object-Detection-Project-using-YOLOR/blob/main/assets/detection_detection_video.png" ></a>
+<a href="https://drive.google.com/file/d/1MY_EwFHn3gGvj87aigAXkEfZF_coeC8n/view?usp=sharing"><img src="https://github.com/Imrul2322/Object-Detection-Project-using-YOLOR/blob/main/assets/detection_detection_video.png" ></a>
 
 Video 1: Object detection in a 5 min long Manhattan St video. 
 
